@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reviews>
+  <review id="RV001" productId="1" customerId="CUS001" rating="5" date="2026-10-02">
+    <customerName>Nguyễn Hoàng Anh</customerName>
+    <comment>Chất lượng tốt, dùng rất tiện.</comment>
+  </review>
+  <review id="RV002" productId="1" customerId="CUS002" rating="4" date="2026-10-03">
+    <customerName>Lê Minh Trang</customerName>
+    <comment>Đúng mô tả, giao hàng ổn.</comment>
+  </review>
+  <review id="RV003" productId="2" customerId="CUS001" rating="4" date="2026-10-04">
+    <customerName>Nguyễn Hoàng Anh</customerName>
+    <comment>Chất vải dễ chịu.</comment>
+  </review>
+  <review id="RV004" productId="2" customerId="CUS002" rating="5" date="2026-10-05">
+    <customerName>Lê Minh Trang</customerName>
+    <comment>Sản phẩm đẹp và vừa vặn.</comment>
+  </review>
+  <review id="RV005" productId="3" customerId="CUS002" rating="5" date="2026-10-06">
+    <customerName>Lê Minh Trang</customerName>
+    <comment>Thiết kế đẹp, chất liệu tốt.</comment>
+  </review>
+  <review id="RV006" productId="3" customerId="CUS001" rating="4" date="2026-10-07">
+    <customerName>Nguyễn Hoàng Anh</customerName>
+    <comment>Đáng tiền.</comment>
+  </review>
+  <review id="RV007" productId="5" customerId="CUS001" rating="5" date="2026-10-08">
+    <customerName>Nguyễn Hoàng Anh</customerName>
+    <comment>Món trang sức đẹp.</comment>
+  </review>
+  <review id="RV008" productId="5" customerId="CUS002" rating="4" date="2026-10-09">
+    <customerName>Lê Minh Trang</customerName>
+    <comment>Đóng gói cẩn thận.</comment>
+  </review>
+  <review id="RV009" productId="6" customerId="CUS002" rating="4" date="2026-10-10">
+    <customerName>Lê Minh Trang</customerName>
+    <comment>Nhỏ gọn, tinh tế.</comment>
+  </review>
+  <review id="RV010" productId="7" customerId="CUS001" rating="3" date="2026-10-11">
+    <customerName>Nguyễn Hoàng Anh</customerName>
+    <comment>Ở mức chấp nhận được.</comment>
+  </review>
+  <review id="RV011" productId="8" customerId="CUS002" rating="4" date="2026-10-12">
+    <customerName>Lê Minh Trang</customerName>
+    <comment>Màu sắc đẹp.</comment>
+  </review>
+</reviews>

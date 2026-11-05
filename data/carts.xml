@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<invoices>
+  <invoice code="INV-2026-001" date="2026-10-20T09:30:00" status="Completed">
+    <employee id="EMP001">Nguyễn Minh Quân</employee>
+    <customer id="CUS001">Nguyễn Hoàng Anh</customer>
+    <details>
+      <item productId="1" quantity="1" unitPrice="109.95"/>
+      <item productId="3" quantity="1" unitPrice="55.99"/>
+    </details>
+    <total>165.94</total>
+  </invoice>
+  <invoice code="INV-2026-002" date="2026-10-22T14:10:00" status="Processing">
+    <employee id="EMP002">Trần Thu Hà</employee>
+    <customer id="CUS002">Lê Minh Trang</customer>
+    <details>
+      <item productId="2" quantity="2" unitPrice="22.30"/>
+      <item productId="6" quantity="1" unitPrice="168.00"/>
+    </details>
+    <total>212.60</total>
+  </invoice>
+  <invoice code="INV-2026-003" date="2026-10-25T16:45:00" status="Completed">
+    <employee id="EMP001">Nguyễn Minh Quân</employee>
+    <customer id="CUS001">Nguyễn Hoàng Anh</customer>
+    <details>
+      <item productId="5" quantity="1" unitPrice="695.00"/>
+      <item productId="7" quantity="3" unitPrice="9.99"/>
+    </details>
+    <total>724.97</total>
+  </invoice>
+</invoices>

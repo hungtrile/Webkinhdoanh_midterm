@@ -1,0 +1,20 @@
+{
+  "customers": [
+    {
+      "customerId": "CUS001",
+      "fullName": "Nguyễn Hoàng Anh",
+      "email": "customer1@example.com",
+      "phone": "0912345678",
+      "address": "TP. Hồ Chí Minh",
+      "password": "Customer@123"
+    },
+    {
+      "customerId": "CUS002",
+      "fullName": "Lê Minh Trang",
+      "email": "customer2@example.com",
+      "phone": "0987654321",
+      "address": "Bình Dương",
+      "password": "Customer@123"
+    }
+  ]
+}
